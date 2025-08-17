@@ -1,6 +1,6 @@
 # DeepFuzzerJS
 
-[DeepFuzzerJS Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY283bWpnOWkxZjNjOTNteW92Z2sxdGQxcWV2a3NnZjFpZ2p1NDNsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif)
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN6NmJmb3IzN3FnbnhpajJvYjc5bDNoZHd5OGJsNzc4dmhmZjlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Rp9ZYEy13cKhHZH5Z/giphy.gif
 
 **Author:** Critfinds  
 **License:** MIT  

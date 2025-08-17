@@ -1,6 +1,7 @@
 # DeepFuzzerJS
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN6NmJmb3IzN3FnbnhpajJvYjc5bDNoZHd5OGJsNzc4dmhmZjlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Rp9ZYEy13cKhHZH5Z/giphy.gif
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/5c16268a-0e83-424f-9993-6769e6d4b273" />
+
 
 **Author:** Critfinds  
 **License:** MIT  

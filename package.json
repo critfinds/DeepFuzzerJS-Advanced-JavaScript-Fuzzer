@@ -1,0 +1,26 @@
+{
+  "name": "deepfuzzerjs",
+  "version": "1.0.0",
+  "description": "A JavaScript fuzzer for testing WebSocket and browser applications.",
+  "main": "fuzz.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fuzz.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "commander": "^9.5.0",
+    "node-fetch": "^3.3.2",
+    "ora": "^7.0.1",
+    "ws": "^8.18.3"
+  },
+  "keywords": [
+    "fuzzer",
+    "javascript",
+    "websocket",
+    "browser"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

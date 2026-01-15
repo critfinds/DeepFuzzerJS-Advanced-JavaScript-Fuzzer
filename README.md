@@ -1,6 +1,6 @@
 # DeepFuzzerJS
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/5c16268a-0e83-424f-9993-6769e6d4b273" />
+<img width="480" height="480" alt="image" src="url-fuzzer-uncover.svg" />
 
 
 **Author:** Critfinds  
